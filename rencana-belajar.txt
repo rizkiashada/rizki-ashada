@@ -1,5 +1,7 @@
 Rencana belajar programming
 
 1. Konsistensi
+  - 3 Jam setelah sholat subuh
+  - 2 jam setelah sholat maghrib
 2. Github
 3. Front End
